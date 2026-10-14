@@ -1,0 +1,7 @@
+interface:
+  display_name: "Painted Animation"
+  short_description: "Create hand-painted animated videos in code"
+  brand_color: "#D97757"
+  default_prompt: "Use $painted-animation to create a hand-painted animated short."
+policy:
+  allow_implicit_invocation: true
